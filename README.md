@@ -21,3 +21,5 @@ Developed the complete UI and interactive features for this coffee e-commerce we
 - Clean and lightweight JavaScript-based interactions
 - Real-world deployment experience with performance optimization
 
+## Screenshot
+![Rossette Coffee](https://github.com/user-attachments/assets/831bcb0b-5ba3-458f-87f4-de489b5e19da)
